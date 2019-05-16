@@ -1,8 +1,8 @@
 import sys
-from Exploration.IEX_wrap import *
+from IEX_wrap import *
 
 from PyQt5.QtWidgets import *
-from Exploration.DayChart import Ui_DayChart
+from DayChart import Ui_DayChart
 from matplotlib.backends.backend_qt5agg import (NavigationToolbar2QT as NavigationToolbar)
 import matplotlib.pyplot as plt
 

@@ -60,4 +60,4 @@ class Ui_DayChart(object):
         self.menuasdfsd.setTitle(_translate("DayChart", "File"))
         self.actionSave_data.setText(_translate("DayChart", "Save data"))
 
-from Exploration.mplgraph import MplGraph
+from mplgraph import MplGraph
